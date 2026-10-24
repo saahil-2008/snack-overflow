@@ -6,3 +6,13 @@ __pycache__/
 *.pyc
 *.db-wal
 *.db-shm
+
+*.pyc
+*.pyo
+.venv/
+env/
+venv/
+*.db
+*.sqlite3
+data/audio/
+.DS_Store
